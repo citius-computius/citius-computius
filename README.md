@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @citius-computius
-- 📚 I'm a highs chool student
+- 👋 Hi, I’m Bogdan
+- 📚 I'm a university student
 - 💻 I'm programming in Python, Django and sometimes in C++, have basic knowledge of JavaScript
 - 👀 I’m interested in backend (server) programming, robotics, bot and game development
 
